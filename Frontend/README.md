@@ -39,4 +39,15 @@ API:
 
 ## ▶️ How to Run Locally
 
-1. Start backend:
+1. Start backend: Open your terminal in the project folder and run:
+node server.js
+
+2.Then open the frontend.
+If you are using VS Code, install the Live Server extension, then:
+Right-click on index.html
+Click “Open with Live Server”
+
+Your website will open in the browser.
+
+<img width="1271" height="662" alt="image" src="https://github.com/user-attachments/assets/5fc3cb63-f880-4969-b1d0-2abbbecae304" />
+
