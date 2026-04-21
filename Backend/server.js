@@ -13,7 +13,7 @@ const PORT = 3000;
 
 // TEST ROUTE
 app.get("/", (req, res) => {
-  res.send("Backend is running 🚀");
+  res.send("Backend is running ");
 });
 
 // WEATHER ROUTE
